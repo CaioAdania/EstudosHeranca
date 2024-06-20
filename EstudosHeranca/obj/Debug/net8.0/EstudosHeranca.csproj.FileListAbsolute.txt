@@ -12,3 +12,4 @@ C:\Users\caioa\Documents\Caio\VsCommunity\EstudosHeranca\EstudosHeranca\obj\Debu
 C:\Users\caioa\Documents\Caio\VsCommunity\EstudosHeranca\EstudosHeranca\obj\Debug\net8.0\EstudosHeranca.pdb
 C:\Users\caioa\Documents\Caio\VsCommunity\EstudosHeranca\EstudosHeranca\obj\Debug\net8.0\EstudosHeranca.genruntimeconfig.cache
 C:\Users\caioa\Documents\Caio\VsCommunity\EstudosHeranca\EstudosHeranca\obj\Debug\net8.0\ref\EstudosHeranca.dll
+C:\Users\caioa\Documents\Caio\VsCommunity\EstudosHeranca\EstudosHeranca\obj\Debug\net8.0\EstudosHeranca.sourcelink.json
