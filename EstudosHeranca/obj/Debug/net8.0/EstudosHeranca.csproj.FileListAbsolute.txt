@@ -1,0 +1,14 @@
+C:\Users\caioa\Documents\Caio\VsCommunity\EstudosHeranca\EstudosHeranca\bin\Debug\net8.0\EstudosHeranca.exe
+C:\Users\caioa\Documents\Caio\VsCommunity\EstudosHeranca\EstudosHeranca\bin\Debug\net8.0\EstudosHeranca.deps.json
+C:\Users\caioa\Documents\Caio\VsCommunity\EstudosHeranca\EstudosHeranca\bin\Debug\net8.0\EstudosHeranca.runtimeconfig.json
+C:\Users\caioa\Documents\Caio\VsCommunity\EstudosHeranca\EstudosHeranca\bin\Debug\net8.0\EstudosHeranca.dll
+C:\Users\caioa\Documents\Caio\VsCommunity\EstudosHeranca\EstudosHeranca\bin\Debug\net8.0\EstudosHeranca.pdb
+C:\Users\caioa\Documents\Caio\VsCommunity\EstudosHeranca\EstudosHeranca\obj\Debug\net8.0\EstudosHeranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caioa\Documents\Caio\VsCommunity\EstudosHeranca\EstudosHeranca\obj\Debug\net8.0\EstudosHeranca.AssemblyInfoInputs.cache
+C:\Users\caioa\Documents\Caio\VsCommunity\EstudosHeranca\EstudosHeranca\obj\Debug\net8.0\EstudosHeranca.AssemblyInfo.cs
+C:\Users\caioa\Documents\Caio\VsCommunity\EstudosHeranca\EstudosHeranca\obj\Debug\net8.0\EstudosHeranca.csproj.CoreCompileInputs.cache
+C:\Users\caioa\Documents\Caio\VsCommunity\EstudosHeranca\EstudosHeranca\obj\Debug\net8.0\EstudosHeranca.dll
+C:\Users\caioa\Documents\Caio\VsCommunity\EstudosHeranca\EstudosHeranca\obj\Debug\net8.0\refint\EstudosHeranca.dll
+C:\Users\caioa\Documents\Caio\VsCommunity\EstudosHeranca\EstudosHeranca\obj\Debug\net8.0\EstudosHeranca.pdb
+C:\Users\caioa\Documents\Caio\VsCommunity\EstudosHeranca\EstudosHeranca\obj\Debug\net8.0\EstudosHeranca.genruntimeconfig.cache
+C:\Users\caioa\Documents\Caio\VsCommunity\EstudosHeranca\EstudosHeranca\obj\Debug\net8.0\ref\EstudosHeranca.dll
