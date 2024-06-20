@@ -23,5 +23,11 @@ namespace EstudosHeranca.Entities
         {
             Balance += Balance * InterestRate;
         }
+
+        public override void Withdraw(double amount)
+        {
+            base.Withdraw(amount);// base do account descontando e logo em seguida mais 2
+            Balance -= 2;
+        }
     }
 }
